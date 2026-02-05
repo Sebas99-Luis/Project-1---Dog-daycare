@@ -1,206 +1,206 @@
 customer_id,full_name,email,phone,country_clean,city_clean,postal_code,address_line1,address_line2,signup_date_clean,marketing_opt_in_clean,waiver_signed_clean,preferred_channel_clean,customer_type_clean,risk_flag_clean,language_clean,lifetime_value,pets_count,primary_pet_name,primary_pet_breed,primary_pet_dob,vet_provider,vaccination_status,notes
-1003,Erik Holm,erikholm707@gmail.com,+44 7655742829,españa,stockholm,,Kungsgatan 1,,2023-01-12,False,False,partner,vip,,,,1 ,,Poodle,22 Apr 2023,,unknown,
-1030, Sara Lind ,saralind838@email.com,+34 641062464,españa,stockholm,,Birger Jarlsgatan 85,,2023-05-10,True,True,walk-in,,high,,,1 ,,MIXED,05/01/2020,Evidensia,,
-2438,Mikael Astrom,mikaelås991@email.com,+47 97621913,se,solna,54456,,Apt 19,2023-07-12,False,False,walk-in,corporate,high,sv,,2,Milo,German Shepherd,06 Jul 2021,,,allergic to peanuts
-1204,MARIAM ALI,mariamal123@company.se,,united kingdom,stockholm,,Sveavägen 14,Floor 7,2023-08-12,False,False,,trial,medium,en,,1,,Poodle,10/20/2024,Local Vet,unknown,
-1064,David Stone,davidsto949@outlook.com,,spain,stockholm,38157,,Floor 9,2023-09-10,False,False,website,new,,sv,,2,,,,AniCura,,allergic to peanuts
-1189, EMMA JOHANSSON ,emmajoha446@gmail.com,+34 650530014,spain,nacka,,Kungsgatan 60,Floor 3,2023-09-10,False,False,phone,new,high,en,,,,Golden Retriever,16-09-2024,AniCura,unknown,
-1180,Karin Lund,karinlun871@gmail.com,+47 91839331,portugal,täby,17017,,,2023-10-01,True,False,,vip,low,sv,,2,,MIXED,18/04/2020,AniCura,up_to_date,prefers morning drop-off
-1140,Nora Hansen,norahans581@company.se,,pt,,,Storgatan 57,,2023-10-07,,True,website,,,,,1 ,Rocky,Golden Retriever,12/10/2022,Evidensia,UPTODATE,moved address
-1148,KARIN LUND,karinlun403@company.se,,pt,,,,,2023-10-11,False,True,,vip,high,sv,,3,Charlie,Chihuahua,2024/04/11,,expired,
-1143,Oscar Berg,oskarber109@gmail.com,+34 684110122,uk,täby,124 10,Skogsvägen 74,Apt 57,2023-10-15,False,True,phone,unknown,,en,,2,Max,French Bulldog,14/02/2021,AniCura,expired,invoice required
-1099,maría lópez,maríalóp505@company.se,+44 7170285223,se,sundbyberg,,Ringvägen 17,,2023-10-15,False,True,email,returning,medium,en,,1 ,,German Shepherd,2024/00/12,AniCura,unknown,prefers morning drop-off
-2595,Luis Perez,luispere513@gmail.com,+47 92032303,es,sundbyberg,130 36,,,2023-10-20,False,True,website,new,low,en,,3,Max,,2018/07/17,Evidensia,UPTODATE,moved address
-1190,Pedro Silva,pedrosil274@gmail.com,+34 661524781,sverige,solna,35383,Ringvägen 73,Apt 27,2023-10-22,True,True,walk-in,unknown,,,,1,,Golden Retriever,2018.11.24,Local Vet,,invoice required
-1069,mariam  ali,mariamal661@outlook.com,+46 70 974 14 95,sverige,solna,,Ringvägen 75,,2023-10-26,False,True,phone,vip,low,es,7205.2,3,Luna,Golden Retriever,Jan 29 2021,,,allergic to peanuts
-1004,ahmed ali,ahmedali594@email.com,+34 673993471,sweden,täby,40828,,Floor 1,2023-10-30,False,False,instagram,trial,unknown,es,,two,Rocky,,23 Dec 2020,AniCura,,prefers morning drop-off
-1138,KARIN  LUND,karinlun37@company.se,+34 674101392,,solna,,Skogsvägen 7,,2023-11-10,True,True,,new,,sv,,1,Rocky,Dachshund,2018/08/26,,,allergic to peanuts
-1219,Frida Karlsson,fridakar823@gmail.com,+34 668716883,uk,solna,117 99,Skogsvägen 52,,2023-11-10,False,False,email,new,low,,7553.48,1 ,,,30/03/2023,Local Vet,,
-1098,Oscar Berg,oscarber487@gmail.com,,no,sundbyberg,,,Floor 5,2023-11-15,False,False,email,new,medium,,9074.1,1 ,Charlie,MIXED,2023-05-04,Local Vet,,moved address
-1043,lin  chen,linchen175@outlook.com,+47 98901136,no,sundbyberg,,Skogsvägen 29,Apt 73,2023-11-16,False,,walk-in,vip,unknown,es,,0,,German Shepherd,2022.09.11,AniCura,unknown,moved address
-1151,pedro silva,pedrosil612@gmail.com,+46 70 681 27 26,sverige,sundbyberg,31671,Storgatan 85,Apt 39,2023-11-16,True,False,website,,low,,,1 ,,Labrador,05/10/2023,,,
-1185,SOFIA ANDERSSON,sofiaand316@company.se,+47 93302963,uk,täby,18248,,,2023-11-16,False,False,website,returning,high,es,,1 ,,Mixed,,Local Vet,UPTODATE,allergic to peanuts
-2475,luis p.,luispere745@outlook.com,+47 92004872,spain,täby,58823,Storgatan 75,,2023-11-17,False,False,,unknown,medium,,,,,,Aug 29 2021,,,
-1060, ERIK HOLM ,erikholm746@gmail.com,+46 70 861 99 20,norway,täby,,Storgatan 14,,2023-11-18,,True,website,corporate,,es,,0,Rocky,,2023.05.05,,UPTODATE,
-1071,noah  eriksson,noaherik391@email.com,,cn,sundbyberg,181 36,Skogsvägen 69,,2023-11-22,True,True,website,new,low,en,9103.83,1 ,Rocky,,28-07-2021,,up_to_date,prefers morning drop-off
-2554,jonas nilsson,jonasnil31@outlook.com,+34 669459055,se,täby,,,Apt 4,2023-11-24,False,True,website,vip,unknown,,,,,Husky,04/25/2023,AniCura,expired,prefers morning drop-off
-1033,ella berg,ellaberg171@email.com,,es,täby,,Skogsvägen 51,Apt 76,2023-11-24,False,False,walk-in,new,high,,3951.77,,Luna,Beagle,Jul 01 2021,Local Vet,unknown,
-1005, Ana Garcia ,anagarci342@gmail.com,+46 70 368 30 66,portugal,solna,,Parkvägen 6,,2023-11-27,False,False,,unknown,low,sv,,two,Luna,Poodle,,,unknown,moved address
-1186,Sara Lind,saralind438@company.se,+34 652029205,se,stockholm,,Sveavägen 17,Apt 6,2023-12-02,False,True,phone,unknown,high,es,,1,Milo,German Shepherd,2021/12/19,,UPTODATE,
-1130,ahmed ali,ahmedali393@gmail.com,+47 91077963,uk,täby,105 53,,,2023-12-07,False,True,instagram,,high,en,4691.28,2,,Husky,May 13 2019,,up_to_date,
-1104,Frida Karlsson,fridakar224@outlook.com,+46 70 486 83 30,uk,sundbyberg,15392,Skogsvägen 60,,2023-12-08,False,True,phone,new,medium,sv,,0,Rocky,Golden Retriever,21/04/2021,,expired,
-1061,PEDRO SILVA,pedrosil783@outlook.com,+34 665419020,norway,täby,91625,Kungsgatan 42,Apt 69,2023-12-09,False,False,phone,,,sv,,1,Bella,Husky,Jun 08 2020,AniCura,,
-1103,mariam  ali,mariamal203@outlook.com,+34 684424395,sweden,stockholm,,Parkvägen 40,,2023-12-10,True,True,partner,corporate,low,,,1,,mix,Mar 13 2022,,UPTODATE,prefers morning drop-off
-1196,Ella Berg,ellaberg414@email.com,+46 70 999 63 21,united kingdom,stockholm,15573,Ringvägen 14,Apt 21,2023-12-10,False,True,phone,returning,unknown,es,6656.63,,Bella,Husky,06/13/2020,AniCura,,
-1191, AHMED ALI ,ahmedali167@company.se,+44 7535858328,se,sundbyberg,147 25,,,2023-12-18,False,False,,,medium,,,3,Max,Golden Retriever,03/12/2018,,unknown,moved address
-1194, pedro silva ,pedrosil440@email.com,+47 93178982,no,solna,31483,,Apt 71,2023-12-26,True,False,walk-in,returning,low,en,,0,,Beagle,,Local Vet,,prefers morning drop-off
-1095,fatima khan,fatimakh311@gmail.com,+34 645005058,españa,nacka,114 89,Skogsvägen 44,,2023-12-29,True,False,,trial,low,en,,,Max,Golden Retriever,05/11/2024,Evidensia,,invoice required
-1107,luis  perez,luispere760@company.se,+47 93575243,pt,täby,,Ringvägen 40,,2023-12-31,,True,website,,medium,sv,1899.86,0,,Beagle,27/02/2020,Evidensia,up_to_date,invoice required
-1047,oscar berg,oscarber298@company.se,+44 7468006578,cn,nacka,,,Apt 65,2024-01-04,False,True,email,corporate,,,7326.87,0,Max,,2018-03-22,AniCura,,moved address
-1083,LIN CHEN,linchen811@email.com,+47 93083343,portugal,huddinge,25644,,,2024-01-05,False,False,email,vip,unknown,,6963.09,1,,French Bulldog,,AniCura,expired,allergic to peanuts
-1147,Ella Berg,ellaberg959@outlook.com,+47 98950226,sweden,stockholm,139 99,Storgatan 69,Floor 8,2024-01-05,True,True,walk-in,unknown,unknown,,,0,Charlie,Mixed,,,,
-1090,Erik Holm,erikholm328@company.se,+47 96495887,sverige,nacka,148 83,,,2024-01-10,,False,phone,new,,,,0,Rocky,,,Evidensia,,prefers morning drop-off
-1076,,ahmedali64@company.se,+44 7174516050,norway,stockholm,118 79,,Apt 5,2024-01-11,False,False,email,vip,,en,,two,Bella,Labrador,19-05-2022,AniCura,,prefers morning drop-off
-1035,Sofia  Andersson,sofiaand850@gmail.com,+46 70 133 67 43,portugal,täby,,Birger Jarlsgatan 22,Floor 1,2024-01-11,False,,partner,trial,unknown,sv,,1 ,Milo,,01/26/2019,Evidensia,,allergic to peanuts
-1094,,linchen925@gmail.com,+34 612634395,china,nacka,106 52,,Apt 71,2024-01-12,False,False,instagram,trial,unknown,es,,two,Bella,German Shepherd,19 Mar 2018,,unknown,prefers morning drop-off
-1146,OSCAR BERG,oscarber577@email.com,,sweden,solna,,Skogsvägen 33,,2024-01-15,True,True,phone,trial,,,,1,,German Shepherd,Aug 10 2023,,,
-1022,Pedro Silva,pedrosil754@gmail.com,+44 7855954847,norway,solna,19706,Kungsgatan 116,Floor 6,2024-01-18,False,False,partner,vip,high,,,1 ,Charlie,Golden Retriever,,,,allergic to peanuts
-1001,mariam ali,mariamal755@email.com,+46 70 658 21 85,se,täby,81426,Kungsgatan 58,,2024-01-20,True,True,website,vip,high,es,,2,Rocky,Chihuahua,2020-12-19,AniCura,,
-1114,Jonas Nilsson,jonasnil669@company.se,,united kingdom,nacka,,Skogsvägen 56,Apt 74,2024-01-24,False,True,walk-in,,,es,7722.25,1 ,,Golden Retriever,,,,invoice required
-1144,,oliviali572@gmail.com,,pt,solna,,,,2024-01-29,True,True,walk-in,new,high,,,1,,Golden Retriever,2019.12.23,,,allergic to peanuts
-1182,Maria Lopez,maríalóp917@gmail.com,+47 93421884,es,täby,181 22,Storgatan 4,Apt 24,2024-02-01,True,True,instagram,,high,en,6285.06,1 ,,Beagle,,,,
-1015,ANA GARCIA,anagarci844@company.se,+47 91358318,es,,,Kungsgatan 105,,2024-02-02,True,False,website,vip,medium,sv,1044.3,0,Rocky,MIXED,,,,prefers morning drop-off
-1113,ella berg,ellaberg734@gmail.com,+44 7623454129,uk,nacka,98853,Sveavägen 97,,2024-02-03,False,False,email,,low,,1243.56,2,,,11/02/2019,Evidensia,UPTODATE,
-1002,DAVID STONE,davidsto898@outlook.com,+34 671586053,no,täby,151 56,Birger Jarlsgatan 12,Floor 7,2024-02-04,False,False,instagram,trial,,,5026.59,two,Max,,,,UPTODATE,
-1116,Nora Hansen,norahans147@company.se,,españa,nacka,46152,Ringvägen 12,Apt 53,2024-02-05,False,True,walk-in,new,medium,sv,5465.51,2,,MIXED,13 Feb 2018,,,
-1166,Oskar Berg,oskarber759@company.se,,spain,stockholm,93814,Skogsvägen 24,,2024-02-07,False,True,phone,vip,,,,2,,Golden Retriever,,,UPTODATE,
-1100,Elin  Svensson,elinsven10@gmail.com,+46 70 813 72 60,china,huddinge,26176,Ringvägen 46,Apt 23,2024-02-07,False,True,,corporate,low,,2104.45,two,Rocky,Poodle,04-01-2019,Local Vet,,allergic to peanuts
-1133,,linchen924@company.se,+34 612781968,se,solna,66455,Parkvägen 25,Floor 5,2024-02-09,,False,instagram,returning,high,,,3,,Mixed,,AniCura,unknown,allergic to peanuts
-1038,olivia  lind,oliviali800@outlook.com,+46 70 220 13 52,uk,sundbyberg,107 73,,Floor 4,2024-02-12,,False,walk-in,vip,low,en,,3,Luna,French Bulldog,25 May 2018,Local Vet,expired,allergic to peanuts
-1044,Liam Andersson,liamande293@outlook.com,+34 675174087,united kingdom,huddinge,15083,,,2024-02-19,,True,phone,vip,high,en,8007.04,1,Milo,mix,Dec 20 2022,,UPTODATE,prefers morning drop-off
-1089,Ahmed  Ali,ahmedali547@outlook.com,+34 666878965,portugal,sundbyberg,,,Floor 5,2024-02-20,True,False,phone,vip,low,en,,3,Bella,Dachshund,,Evidensia,unknown,invoice required
-1136,ERIK HOLM,erikholm65@gmail.com,+34 655538877,sweden,huddinge,,,Apt 68,2024-02-20,False,False,partner,vip,unknown,,,0,Bella,mix,2019/10/14,,expired,
-1145,Jonas Nilsson,jonasnil671@email.com,+34 631071231,españa,nacka,127 80,,,2024-02-26,True,True,website,vip,low,sv,,2,Max,MIXED,28 Mar 2022,AniCura,,
-1206,oscar berg,oscarber791@outlook.com,+34 635551798,,nacka,17179,Skogsvägen 20,,2024-02-28,True,True,email,returning,medium,en,,1 ,Charlie,Beagle,Oct 03 2024,,up_to_date,moved address
-1134,AHMED  ALI,ahmedali956@outlook.com,+47 97696015,no,huddinge,,,,2024-03-03,False,True,phone,unknown,,en,,,Luna,,Dec 16 2022,,,invoice required
-1010,OSKAR BERG,oskarber67@company.se,,sweden,täby,,Ringvägen 49,Floor 5,2024-03-04,True,False,phone,trial,low,es,5791.49,two,Charlie,,11/29/2018,AniCura,unknown,prefers morning drop-off
-1102,david  stone,davidsto731@email.com,+47 99537891,norway,solna,131 27,,Floor 5,2024-03-05,True,False,,corporate,high,,,0,Luna,Labrador,2020-08-30,Evidensia,up_to_date,allergic to peanuts
-1164,elin svensson,elinsven320@gmail.com,+34 617948672,cn,solna,94683,Parkvägen 32,,2024-03-06,True,False,instagram,unknown,unknown,sv,,3,Luna,,2021-02-02,AniCura,,prefers morning drop-off
-1096,Erik Holm,erikholm735@email.com,+46 70 422 61 31,se,,78128,Ringvägen 71,Apt 41,2024-03-09,True,True,partner,,,,,1 ,,mix,15 Nov 2021,,,moved address
-1049,Karin Lund,karinlun841@email.com,+44 7180385942,spain,stockholm,,,,2024-03-13,False,False,instagram,new,,en,7079.77,,,Labrador,2024-04-01,Evidensia,,
-1163,Emma Johansson,emmajoha463@gmail.com,,sverige,sundbyberg,,Skogsvägen 67,,2024-03-21,True,,partner,new,medium,sv,9263.33,1 ,Milo,French Bulldog,24-11-2021,Evidensia,unknown,
-1009,MIKAEL ÅSTRÖM,mikaelås584@company.se,,portugal,sundbyberg,171 11,Ringvägen 53,Floor 4,2024-03-23,False,False,email,corporate,low,en,,two,Charlie,Mixed,Jul 10 2024,,expired,invoice required
-1034,SARA LIND,saralind687@company.se,+46 70 754 50 86,united kingdom,solna,,Storgatan 87,Apt 31,2024-03-27,True,False,phone,trial,,sv,,3,,French Bulldog,06/17/2023,Evidensia,,moved address
-1201,liam andersson,liamande101@company.se,+34 617683639,sweden,täby,48291,,,2024-03-29,True,True,instagram,vip,,,,1 ,Bella,Beagle,,,,moved address
-1032,Oscar Berg,oscarber275@company.se,+46 70 271 65 45,portugal,huddinge,,Birger Jarlsgatan 14,Floor 6,2024-04-02,True,False,,vip,,en,,2,Charlie,Husky,07/10/2021,,,
-1029,AHMED ALI,ahmedali81@company.se,,es,täby,192 95,Birger Jarlsgatan 27,Floor 4,2024-04-08,False,False,email,returning,unknown,sv,,1 ,Rocky,MIXED,05 Mar 2021,Local Vet,,prefers morning drop-off
-1159,Pedro Silva,pedrosil633@company.se,+44 7876153361,se,huddinge,149 98,Sveavägen 78,Floor 1,2024-04-10,False,False,phone,vip,,sv,8774.26,1,Max,Beagle,08/22/2022,Evidensia,,invoice required
-1175, ana g. ,anagarci91@email.com,+46 70 910 97 39,es,nacka,,Kungsgatan 61,,2024-04-16,True,False,,,,es,,0,Max,Poodle,Feb 06 2020,,expired,
-1110,ELLA BERG,ellaberg261@gmail.com,+44 7791916428,es,nacka,,,Floor 7,2024-04-21,False,True,walk-in,vip,high,en,,1,,mix,2021-06-15,,,
-1056,KARIN LUND,karinlun858@email.com,,portugal,huddinge,100 83,,,2024-04-27,False,True,website,unknown,unknown,en,,2,Milo,,2022/06/16,Local Vet,,moved address
-1025, fatima khan ,fatimakh971@email.com,+34 630324759,portugal,huddinge,107 27,Skogsvägen 68,,2024-04-28,True,,phone,vip,high,sv,,2,Milo,Poodle,04-05-2021,Local Vet,,prefers morning drop-off
-1197,Olivia Lind,oliviali224@outlook.com,,norway,solna,26153,,Floor 8,2024-04-29,False,True,email,returning,,en,,3,Milo,Dachshund,2024/00/12,,,invoice required
-1122,Olivia  Lind,oliviali438@outlook.com,+44 7442862704,no,täby,,Skogsvägen 71,,2024-05-05,,,partner,corporate,low,,,1 ,Charlie,mix,,,unknown,moved address
-1063,Liam Andersson,liamande114@email.com,+46 70 168 15 26,united kingdom,huddinge,,,Apt 10,2024-05-06,False,False,walk-in,vip,low,sv,,,Bella,Chihuahua,2020-12-24,,up_to_date,allergic to peanuts
-1054,Nora Hansen,norahans647@email.com,+47 91614990,sverige,sundbyberg,,,,2024-05-07,True,False,walk-in,vip,unknown,en,,1,Luna,Chihuahua,05/06/2024,Evidensia,unknown,invoice required
-1172,Sofia Andersson,sofiaand369@gmail.com,,norway,nacka,39751,Kungsgatan 108,,2024-05-09,False,False,email,corporate,,,,two,,French Bulldog,2023/12/11,,expired,allergic to peanuts
-1112, ella berg ,ellaberg952@outlook.com,+46 70 884 45 38,pt,huddinge,162 21,,,2024-05-09,False,True,website,new,high,es,832.96,two,Charlie,mix,,AniCura,expired,allergic to peanuts
-1062,Ana G.,anagarci16@gmail.com,,sverige,sundbyberg,198 21,Ringvägen 80,,2024-05-11,True,True,email,vip,low,,,1 ,Rocky,MIXED,2022/12/02,Evidensia,expired,allergic to peanuts
-1101,ANA GARCÍA,anagarci697@company.se,,españa,stockholm,,,,2024-05-13,False,False,walk-in,corporate,low,,,1,,Husky,Sep 03 2020,,,
-1208,FRIDA  KARLSSON,fridakar136@outlook.com,,pt,stockholm,110 87,Birger Jarlsgatan 15,,2024-05-13,False,False,instagram,trial,high,sv,,3,Max,,12-02-2024,Evidensia,,prefers morning drop-off
-1215,olivia lind,oliviali965@email.com,+44 7293767948,norway,stockholm,120 17,,,2024-05-13,False,True,website,,unknown,,,,Max,French Bulldog,01 Feb 2022,Evidensia,up_to_date,
-1121,Nora Hansen,norahans10@email.com,,norway,solna,,Sveavägen 81,Floor 2,2024-05-15,True,,walk-in,vip,,sv,,1,,,Aug 27 2019,AniCura,unknown,
-1082,ELIN  SVENSSON,elinsven491@email.com,+34 613328008,se,täby,,Kungsgatan 101,,2024-05-16,False,False,partner,returning,,sv,3018.7,2,,French Bulldog,Oct 18 2022,Local Vet,expired,
-1212,SOFIA ANDERSSON,sofiaand747@gmail.com,+44 7355710363,united kingdom,sundbyberg,119 99,Parkvägen 5,,2024-05-17,False,False,partner,unknown,unknown,sv,4975.35,two,Luna,MIXED,2023-05-12,,,moved address
-1176,Karin Lund,karinlun175@email.com,+44 7597812327,cn,nacka,28275,Ringvägen 20,,2024-05-19,True,False,website,returning,medium,es,,1,Milo,Beagle,2020-03-21,Local Vet,UPTODATE,invoice required
-1169,maria  lopez,maríalóp700@gmail.com,+47 93604706,sweden,huddinge,170 18,Sveavägen 19,,2024-05-20,True,True,instagram,,unknown,en,,1 ,,MIXED,,Local Vet,,moved address
-1048,oscar  berg,oscarber524@email.com,+47 98663014,sverige,stockholm,98705,Birger Jarlsgatan 95,Floor 3,2024-05-25,True,True,phone,corporate,unknown,sv,2548.94,,Rocky,,,,unknown,
-1152,David Stone,davidsto391@company.se,+46 70 531 32 30,portugal,,,Ringvägen 65,,2024-05-26,True,,instagram,vip,,,2457.17,,,German Shepherd,,,unknown,moved address
-1109,mikael astrom,mikaelås460@gmail.com,+34 658262270,united kingdom,huddinge,155 29,,Floor 3,2024-05-29,True,True,phone,corporate,high,,,1 ,,Golden Retriever,09/26/2021,AniCura,,moved address
-1075,Mariam  Ali,mariamal172@company.se,+44 7833913230,china,,68827,Sveavägen 68,,2024-05-30,False,True,email,vip,,sv,2537.33,two,,Husky,2020/09/17,AniCura,,allergic to peanuts
-1218,LIAM ANDERSSON,liamande67@outlook.com,,sverige,,159 65,,Apt 16,2024-06-02,True,False,email,trial,medium,sv,,,Max,Husky,,AniCura,,allergic to peanuts
-1181,Ahmed Ali,ahmedali294@outlook.com,+47 93749697,pt,sundbyberg,86049,Sveavägen 60,,2024-06-10,False,False,instagram,trial,high,,,two,,Husky,01/18/2024,Evidensia,,allergic to peanuts
-1085,Maria Lopez,maríalóp527@gmail.com,+34 672532267,uk,huddinge,53006,,Apt 40,2024-06-10,True,True,instagram,vip,,en,1793.46,two,Rocky,French Bulldog,2018.02.22,AniCura,up_to_date,
-1139,MARÍA LÓPEZ,maríalóp491@outlook.com,+47 94536127,es,huddinge,156 93,Parkvägen 35,,2024-06-10,False,True,walk-in,vip,unknown,sv,3647.39,3,,Labrador,2020/07/08,Local Vet,,invoice required
-1065,JONAS NILSSON,jonasnil345@email.com,+44 7191352864,sverige,solna,35966,,Apt 79,2024-06-13,False,True,walk-in,vip,,es,3072.41,two,,Dachshund,Feb 05 2022,AniCura,expired,
-1037,Ahmed Ali,ahmedali255@outlook.com,,spain,huddinge,74865,Storgatan 31,,2024-06-17,False,True,website,,unknown,en,,,,Labrador,,,expired,invoice required
-1057,Lin Chen,linchen450@email.com,,pt,stockholm,146 40,Skogsvägen 52,Floor 7,2024-06-18,False,True,partner,unknown,low,en,,,Rocky,Beagle,,,up_to_date,
-1045,NORA HANSEN,norahans586@gmail.com,+44 7799636574,cn,huddinge,,Parkvägen 29,,2024-06-19,True,,instagram,vip,high,,,2,,Chihuahua,2019-02-24,,,invoice required
-1210,Mikael ÅSTROM,mikaelås734@outlook.com,,spain,sundbyberg,,Birger Jarlsgatan 104,Apt 46,2024-06-19,True,False,,corporate,,es,,1 ,,Mixed,08/04/2022,,,
-1142,sofia andersson,sofiaand729@company.se,+34 613212026,españa,solna,151 99,,Floor 2,2024-06-20,True,False,walk-in,corporate,,,,,,mix,07/06/2019,Evidensia,up_to_date,allergic to peanuts
-1198,Noah  Eriksson,noaherik581@email.com,+44 7296438104,se,sundbyberg,82597,Sveavägen 1,,2024-06-27,True,False,phone,trial,,sv,,,,Chihuahua,2020/03/14,Evidensia,,
-1132,Erik  Holm,erikholm52@gmail.com,,united kingdom,huddinge,61368,Ringvägen 35,Apt 27,2024-06-29,False,True,email,unknown,unknown,,2735.8,1,,mix,,Local Vet,unknown,
-1216,Jonas Nilsson,jonasnil950@outlook.com,,es,stockholm,173 63,Kungsgatan 88,Apt 78,2024-07-01,True,False,walk-in,unknown,medium,sv,,,,Dachshund,03/27/2023,,,
-1108,Mariam Ali,mariamal341@gmail.com,+46 70 804 50 95,pt,huddinge,,Storgatan 30,Floor 4,2024-07-08,True,True,website,new,low,,,1,,,,,expired,allergic to peanuts
-1050,liam andersson,liamande127@company.se,+46 70 703 74 27,norway,täby,199 32,,,2024-07-10,True,False,partner,vip,,sv,,,Luna,French Bulldog,18-08-2022,,,invoice required
-1077,OSCAR  BERG,oscarber554@outlook.com,+47 96692259,es,huddinge,,Kungsgatan 95,,2024-07-11,True,False,instagram,new,medium,sv,,1,Bella,Mixed,2019.02.03,AniCura,,
-1072,emma johansson,emmajoha882@outlook.com,,españa,täby,173 26,Ringvägen 14,,2024-07-12,True,True,instagram,trial,,sv,,1,,,Sep 28 2018,,,moved address
-1126,,davidsto487@gmail.com,+46 70 547 55 98,pt,täby,,Sveavägen 2,Apt 64,2024-07-14,True,False,phone,unknown,low,sv,,3,Max,Labrador,2020/06/14,,UPTODATE,
-1031, Jonas Nilsson ,jonasnil951@outlook.com,+34 663458386,china,nacka,53480,,,2024-07-15,True,False,website,vip,,en,,0,Milo,MIXED,,Evidensia,,allergic to peanuts
-1160, ana garcía ,anagarci517@outlook.com,+46 70 603 46 83,cn,stockholm,168 30,Birger Jarlsgatan 79,,2024-07-16,False,True,email,unknown,high,,,,,Labrador,2024/00/12,Local Vet,unknown,invoice required
-1106,Oscar Berg,oscarber281@gmail.com,+47 95141290,united kingdom,stockholm,,Ringvägen 39,,2024-07-18,False,False,,unknown,,,,1 ,Max,,2018/06/28,,,
-1150,NORA HANSEN,norahans358@company.se,,no,sundbyberg,182 97,,Floor 2,2024-07-18,False,False,phone,corporate,high,sv,298.76,two,Luna,Husky,2019.07.27,,,moved address
-1087,david stone,davidsto885@company.se,+44 7439854673,sweden,nacka,112 98,Sveavägen 64,,2024-07-19,True,True,website,unknown,,es,,2,Bella,Mixed,07 Jun 2024,,expired,allergic to peanuts
-1170,Erik  Holm,erikholm220@email.com,+34 619792992,no,solna,188 24,Skogsvägen 23,,2024-07-19,True,False,website,trial,medium,es,,two,Milo,Poodle,21 Jan 2021,Local Vet,UPTODATE,
-1177,karin lund,karinlun968@outlook.com,+47 95706534,sverige,sundbyberg,,,,2024-07-22,True,True,walk-in,vip,medium,sv,5924.27,3,,Chihuahua,25/12/2020,Evidensia,expired,
-1178,LIAM ANDERSSON,liamande455@outlook.com,,se,stockholm,82427,,Floor 7,2024-07-27,False,True,instagram,vip,unknown,sv,7942.7,2,Rocky,Chihuahua,2024-05-17,AniCura,,
-1041,Olivia Lind,oliviali817@company.se,+47 96335227,españa,täby,172 28,Skogsvägen 23,Apt 5,2024-07-29,False,True,partner,new,unknown,sv,,1,Luna,Beagle,Dec 28 2019,Evidensia,,moved address
-1161, elin svensson ,elinsven889@gmail.com,,sverige,täby,,Skogsvägen 78,,2024-07-29,False,True,walk-in,,,en,2425.2,0,Bella,Dachshund,17 Sep 2022,Local Vet,up_to_date,invoice required
-1187,FRIDA KARLSSON,fridakar22@company.se,+46 70 497 66 87,no,solna,56303,Sveavägen 32,Apt 49,2024-08-03,False,True,website,corporate,,en,,3,Bella,Husky,,Local Vet,UPTODATE,allergic to peanuts
-1179,pedro silva,pedrosil686@company.se,,sweden,täby,31519,,,2024-08-06,True,True,phone,,medium,sv,,1,Rocky,Mixed,28/05/2022,,,allergic to peanuts
-1078,ELLA BERG,ellaberg709@gmail.com,+34 670454232,portugal,nacka,,Sveavägen 54,Floor 2,2024-08-08,False,True,partner,vip,unknown,,,two,Charlie,Mixed,2018/08/06,Evidensia,,
-1155,Mariam  Ali,mariamal635@email.com,,españa,stockholm,95736,Parkvägen 59,,2024-08-16,False,False,phone,vip,low,sv,,3,,,2024.10.06,,,moved address
-1119,ELIN SVENSSON,elinsven604@outlook.com,+34 661546232,pt,solna,124 67,Sveavägen 39,Apt 69,2024-08-18,True,True,website,trial,high,sv,,3,Max,Dachshund,2018.10.05,,expired,allergic to peanuts
-1120,Mariam Ali,mariamal895@email.com,+47 91023487,portugal,täby,,Parkvägen 2,Apt 29,2024-08-19,True,True,walk-in,unknown,unknown,sv,,2,Charlie,Husky,Jun 22 2020,,UPTODATE,
-1211,OSKAR BERG,oskarber957@company.se,+34 657381532,portugal,täby,,Skogsvägen 22,Apt 11,2024-08-20,True,True,,returning,,,,1 ,,mix,Jun 29 2020,,up_to_date,invoice required
-1123,Karin Lund,karinlun422@outlook.com,+46 70 760 98 11,sverige,täby,61955,,,2024-08-24,False,,instagram,,low,,,1,,Chihuahua,,,unknown,
-1195,Liam Andersson,liamande378@gmail.com,+47 96962982,china,stockholm,140 69,,,2024-08-28,False,True,partner,unknown,high,sv,1137.65,2,,Mixed,09 Jan 2024,Evidensia,,
-1008,DAVID STONE,davidsto285@company.se,+34 682399599,pt,stockholm,,Storgatan 80,Floor 2,2024-08-28,False,False,instagram,vip,,,1594.0,2,Max,Chihuahua,16-04-2018,Evidensia,up_to_date,prefers morning drop-off
-1174,Karin Lund,karinlun374@outlook.com,+46 70 386 76 13,spain,nacka,15302,,,2024-08-28,True,False,,,high,en,,3,Bella,,12 Jan 2021,Local Vet,,
-1026,Oscar Berg,oskarber667@gmail.com,+46 70 394 51 46,portugal,stockholm,122 63,,Apt 38,2024-08-29,,False,partner,new,high,es,,,,,29/02/2020,Evidensia,,prefers morning drop-off
-1192,LIAM ANDERSSON,liamande403@outlook.com,+47 99537520,,sundbyberg,185 51,Birger Jarlsgatan 20,Floor 1,2024-08-30,False,False,website,corporate,medium,,1418.6,,Rocky,mix,2021/08/03,,,allergic to peanuts
-2121,María López,maríalóp21@company.se,,sverige,huddinge,32795,,,2024-08-30,False,False,email,,low,en,,0,,MIXED,25 Dec 2019,,unknown,prefers morning drop-off
+1003,Erik Holm,erikholm707@gmail.com,+44 7655742829,Spain,stockholm,,Kungsgatan 1,,2023-01-12,False,False,partner,vip,,,,1.0,,Poodle,2023-04-22,,Unknown,
+1030,Sara Lind,saralind838@email.com,+34 641062464,Spain,stockholm,,Birger Jarlsgatan 85,,2023-05-10,True,True,walk-in,,high,,,1.0,,Mixed,,Evidensia,,
+2438,Mikael Astrom,mikaelås991@email.com,+47 97621913,Sweden,solna,54456,,Apt 19,2023-07-12,False,False,walk-in,corporate,high,sv,,2.0,Milo,German Shepherd,2021-07-06,,,allergic to peanuts
+1204,Mariam Ali,mariamal123@company.se,,United Kingdom,stockholm,,Sveavägen 14,Floor 7,2023-08-12,False,False,,trial,medium,en,,1.0,,Poodle,,Local Vet,Unknown,
+1064,David Stone,davidsto949@outlook.com,,Spain,stockholm,38157,,Floor 9,2023-09-10,False,False,website,new,,sv,,2.0,,,,AniCura,,allergic to peanuts
+1189,Emma Johansson,emmajoha446@gmail.com,+34 650530014,Spain,nacka,,Kungsgatan 60,Floor 3,2023-09-10,False,False,phone,new,high,en,,,,Golden Retriever,,AniCura,Unknown,
+1180,Karin Lund,karinlun871@gmail.com,+47 91839331,Portugal,täby,17017,,,2023-10-01,True,False,,vip,low,sv,,2.0,,Mixed,,AniCura,Up To Date,prefers morning drop-off
+1140,Nora Hansen,norahans581@company.se,,Portugal,,,Storgatan 57,,2023-10-07,,True,website,,,,,1.0,Rocky,Golden Retriever,,Evidensia,Up To Date,moved address
+1148,Karin Lund,karinlun403@company.se,,Portugal,,,,,2023-10-11,False,True,,vip,high,sv,,3.0,Charlie,Chihuahua,,,Expired,
+1143,Oscar Berg,oskarber109@gmail.com,+34 684110122,United Kingdom,täby,124 10,Skogsvägen 74,Apt 57,2023-10-15,False,True,phone,unknown,,en,,2.0,Max,French Bulldog,,AniCura,Expired,invoice required
+1099,María López,maríalóp505@company.se,+44 7170285223,Sweden,sundbyberg,,Ringvägen 17,,2023-10-15,False,True,email,returning,medium,en,,1.0,,German Shepherd,,AniCura,Unknown,prefers morning drop-off
+2595,Luis Perez,luispere513@gmail.com,+47 92032303,Spain,sundbyberg,130 36,,,2023-10-20,False,True,website,new,low,en,,3.0,Max,,,Evidensia,Up To Date,moved address
+1190,Pedro Silva,pedrosil274@gmail.com,+34 661524781,Sverige,solna,35383,Ringvägen 73,Apt 27,2023-10-22,True,True,walk-in,unknown,,,,1.0,,Golden Retriever,,Local Vet,,invoice required
+1069,Mariam  Ali,mariamal661@outlook.com,+46 70 974 14 95,Sverige,solna,,Ringvägen 75,,2023-10-26,False,True,phone,vip,low,es,7205.2,3.0,Luna,Golden Retriever,,,,allergic to peanuts
+1004,Ahmed Ali,ahmedali594@email.com,+34 673993471,Sweden,täby,40828,,Floor 1,2023-10-30,False,False,instagram,trial,unknown,es,,,Rocky,,2020-12-23,AniCura,,prefers morning drop-off
+1138,Karin  Lund,karinlun37@company.se,+34 674101392,,solna,,Skogsvägen 7,,2023-11-10,True,True,,new,,sv,,1.0,Rocky,Dachshund,,,,allergic to peanuts
+1219,Frida Karlsson,fridakar823@gmail.com,+34 668716883,United Kingdom,solna,117 99,Skogsvägen 52,,2023-11-10,False,False,email,new,low,,7553.48,1.0,,,,Local Vet,,
+1098,Oscar Berg,oscarber487@gmail.com,,Norway,sundbyberg,,,Floor 5,2023-11-15,False,False,email,new,medium,,9074.1,1.0,Charlie,Mixed,,Local Vet,,moved address
+1043,Lin  Chen,linchen175@outlook.com,+47 98901136,Norway,sundbyberg,,Skogsvägen 29,Apt 73,2023-11-16,False,,walk-in,vip,unknown,es,,0.0,,German Shepherd,,AniCura,Unknown,moved address
+1151,Pedro Silva,pedrosil612@gmail.com,+46 70 681 27 26,Sverige,sundbyberg,31671,Storgatan 85,Apt 39,2023-11-16,True,False,website,,low,,,1.0,,Labrador,,,,
+1185,Sofia Andersson,sofiaand316@company.se,+47 93302963,United Kingdom,täby,18248,,,2023-11-16,False,False,website,returning,high,es,,1.0,,Mixed,,Local Vet,Up To Date,allergic to peanuts
+2475,Luis P.,luispere745@outlook.com,+47 92004872,Spain,täby,58823,Storgatan 75,,2023-11-17,False,False,,unknown,medium,,,,,,,,,
+1060,Erik Holm,erikholm746@gmail.com,+46 70 861 99 20,Norway,täby,,Storgatan 14,,2023-11-18,,True,website,corporate,,es,,0.0,Rocky,,,,Up To Date,
+1071,Noah  Eriksson,noaherik391@email.com,,China,sundbyberg,181 36,Skogsvägen 69,,2023-11-22,True,True,website,new,low,en,9103.83,1.0,Rocky,,,,Up To Date,prefers morning drop-off
+2554,Jonas Nilsson,jonasnil31@outlook.com,+34 669459055,Sweden,täby,,,Apt 4,2023-11-24,False,True,website,vip,unknown,,,,,Husky,,AniCura,Expired,prefers morning drop-off
+1033,Ella Berg,ellaberg171@email.com,,Spain,täby,,Skogsvägen 51,Apt 76,2023-11-24,False,False,walk-in,new,high,,3951.77,,Luna,Beagle,,Local Vet,Unknown,
+1005,Ana Garcia,anagarci342@gmail.com,+46 70 368 30 66,Portugal,solna,,Parkvägen 6,,2023-11-27,False,False,,unknown,low,sv,,,Luna,Poodle,,,Unknown,moved address
+1186,Sara Lind,saralind438@company.se,+34 652029205,Sweden,stockholm,,Sveavägen 17,Apt 6,2023-12-02,False,True,phone,unknown,high,es,,1.0,Milo,German Shepherd,,,Up To Date,
+1130,Ahmed Ali,ahmedali393@gmail.com,+47 91077963,United Kingdom,täby,105 53,,,2023-12-07,False,True,instagram,,high,en,4691.28,2.0,,Husky,,,Up To Date,
+1104,Frida Karlsson,fridakar224@outlook.com,+46 70 486 83 30,United Kingdom,sundbyberg,15392,Skogsvägen 60,,2023-12-08,False,True,phone,new,medium,sv,,0.0,Rocky,Golden Retriever,,,Expired,
+1061,Pedro Silva,pedrosil783@outlook.com,+34 665419020,Norway,täby,91625,Kungsgatan 42,Apt 69,2023-12-09,False,False,phone,,,sv,,1.0,Bella,Husky,,AniCura,,
+1103,Mariam  Ali,mariamal203@outlook.com,+34 684424395,Sweden,stockholm,,Parkvägen 40,,2023-12-10,True,True,partner,corporate,low,,,1.0,,Mixed,,,Up To Date,prefers morning drop-off
+1196,Ella Berg,ellaberg414@email.com,+46 70 999 63 21,United Kingdom,stockholm,15573,Ringvägen 14,Apt 21,2023-12-10,False,True,phone,returning,unknown,es,6656.63,,Bella,Husky,,AniCura,,
+1191,Ahmed Ali,ahmedali167@company.se,+44 7535858328,Sweden,sundbyberg,147 25,,,2023-12-18,False,False,,,medium,,,3.0,Max,Golden Retriever,,,Unknown,moved address
+1194,Pedro Silva,pedrosil440@email.com,+47 93178982,Norway,solna,31483,,Apt 71,2023-12-26,True,False,walk-in,returning,low,en,,0.0,,Beagle,,Local Vet,,prefers morning drop-off
+1095,Fatima Khan,fatimakh311@gmail.com,+34 645005058,Spain,nacka,114 89,Skogsvägen 44,,2023-12-29,True,False,,trial,low,en,,,Max,Golden Retriever,,Evidensia,,invoice required
+1107,Luis  Perez,luispere760@company.se,+47 93575243,Portugal,täby,,Ringvägen 40,,2023-12-31,,True,website,,medium,sv,1899.86,0.0,,Beagle,,Evidensia,Up To Date,invoice required
+1047,Oscar Berg,oscarber298@company.se,+44 7468006578,China,nacka,,,Apt 65,2024-01-04,False,True,email,corporate,,,7326.87,0.0,Max,,,AniCura,,moved address
+1083,Lin Chen,linchen811@email.com,+47 93083343,Portugal,huddinge,25644,,,2024-01-05,False,False,email,vip,unknown,,6963.09,1.0,,French Bulldog,,AniCura,Expired,allergic to peanuts
+1147,Ella Berg,ellaberg959@outlook.com,+47 98950226,Sweden,stockholm,139 99,Storgatan 69,Floor 8,2024-01-05,True,True,walk-in,unknown,unknown,,,0.0,Charlie,Mixed,,,,
+1090,Erik Holm,erikholm328@company.se,+47 96495887,Sverige,nacka,148 83,,,2024-01-10,,False,phone,new,,,,0.0,Rocky,,,Evidensia,,prefers morning drop-off
+1076,,ahmedali64@company.se,+44 7174516050,Norway,stockholm,118 79,,Apt 5,2024-01-11,False,False,email,vip,,en,,,Bella,Labrador,,AniCura,,prefers morning drop-off
+1035,Sofia  Andersson,sofiaand850@gmail.com,+46 70 133 67 43,Portugal,täby,,Birger Jarlsgatan 22,Floor 1,2024-01-11,False,,partner,trial,unknown,sv,,1.0,Milo,,,Evidensia,,allergic to peanuts
+1094,,linchen925@gmail.com,+34 612634395,China,nacka,106 52,,Apt 71,2024-01-12,False,False,instagram,trial,unknown,es,,,Bella,German Shepherd,2018-03-19,,Unknown,prefers morning drop-off
+1146,Oscar Berg,oscarber577@email.com,,Sweden,solna,,Skogsvägen 33,,2024-01-15,True,True,phone,trial,,,,1.0,,German Shepherd,,,,
+1022,Pedro Silva,pedrosil754@gmail.com,+44 7855954847,Norway,solna,19706,Kungsgatan 116,Floor 6,2024-01-18,False,False,partner,vip,high,,,1.0,Charlie,Golden Retriever,,,,allergic to peanuts
+1001,Mariam Ali,mariamal755@email.com,+46 70 658 21 85,Sweden,täby,81426,Kungsgatan 58,,2024-01-20,True,True,website,vip,high,es,,2.0,Rocky,Chihuahua,,AniCura,,
+1114,Jonas Nilsson,jonasnil669@company.se,,United Kingdom,nacka,,Skogsvägen 56,Apt 74,2024-01-24,False,True,walk-in,,,es,7722.25,1.0,,Golden Retriever,,,,invoice required
+1144,,oliviali572@gmail.com,,Portugal,solna,,,,2024-01-29,True,True,walk-in,new,high,,,1.0,,Golden Retriever,,,,allergic to peanuts
+1182,Maria Lopez,maríalóp917@gmail.com,+47 93421884,Spain,täby,181 22,Storgatan 4,Apt 24,2024-02-01,True,True,instagram,,high,en,6285.06,1.0,,Beagle,,,,
+1015,Ana Garcia,anagarci844@company.se,+47 91358318,Spain,,,Kungsgatan 105,,2024-02-02,True,False,website,vip,medium,sv,1044.3,0.0,Rocky,Mixed,,,,prefers morning drop-off
+1113,Ella Berg,ellaberg734@gmail.com,+44 7623454129,United Kingdom,nacka,98853,Sveavägen 97,,2024-02-03,False,False,email,,low,,1243.56,2.0,,,,Evidensia,Up To Date,
+1002,David Stone,davidsto898@outlook.com,+34 671586053,Norway,täby,151 56,Birger Jarlsgatan 12,Floor 7,2024-02-04,False,False,instagram,trial,,,5026.59,,Max,,,,Up To Date,
+1116,Nora Hansen,norahans147@company.se,,Spain,nacka,46152,Ringvägen 12,Apt 53,2024-02-05,False,True,walk-in,new,medium,sv,5465.51,2.0,,Mixed,2018-02-13,,,
+1166,Oskar Berg,oskarber759@company.se,,Spain,stockholm,93814,Skogsvägen 24,,2024-02-07,False,True,phone,vip,,,,2.0,,Golden Retriever,,,Up To Date,
+1100,Elin  Svensson,elinsven10@gmail.com,+46 70 813 72 60,China,huddinge,26176,Ringvägen 46,Apt 23,2024-02-07,False,True,,corporate,low,,2104.45,,Rocky,Poodle,,Local Vet,,allergic to peanuts
+1133,,linchen924@company.se,+34 612781968,Sweden,solna,66455,Parkvägen 25,Floor 5,2024-02-09,,False,instagram,returning,high,,,3.0,,Mixed,,AniCura,Unknown,allergic to peanuts
+1038,Olivia  Lind,oliviali800@outlook.com,+46 70 220 13 52,United Kingdom,sundbyberg,107 73,,Floor 4,2024-02-12,,False,walk-in,vip,low,en,,3.0,Luna,French Bulldog,2018-05-25,Local Vet,Expired,allergic to peanuts
+1044,Liam Andersson,liamande293@outlook.com,+34 675174087,United Kingdom,huddinge,15083,,,2024-02-19,,True,phone,vip,high,en,8007.04,1.0,Milo,Mixed,,,Up To Date,prefers morning drop-off
+1089,Ahmed  Ali,ahmedali547@outlook.com,+34 666878965,Portugal,sundbyberg,,,Floor 5,2024-02-20,True,False,phone,vip,low,en,,3.0,Bella,Dachshund,,Evidensia,Unknown,invoice required
+1136,Erik Holm,erikholm65@gmail.com,+34 655538877,Sweden,huddinge,,,Apt 68,2024-02-20,False,False,partner,vip,unknown,,,0.0,Bella,Mixed,,,Expired,
+1145,Jonas Nilsson,jonasnil671@email.com,+34 631071231,Spain,nacka,127 80,,,2024-02-26,True,True,website,vip,low,sv,,2.0,Max,Mixed,2022-03-28,AniCura,,
+1206,Oscar Berg,oscarber791@outlook.com,+34 635551798,,nacka,17179,Skogsvägen 20,,2024-02-28,True,True,email,returning,medium,en,,1.0,Charlie,Beagle,,,Up To Date,moved address
+1134,Ahmed  Ali,ahmedali956@outlook.com,+47 97696015,Norway,huddinge,,,,2024-03-03,False,True,phone,unknown,,en,,,Luna,,,,,invoice required
+1010,Oskar Berg,oskarber67@company.se,,Sweden,täby,,Ringvägen 49,Floor 5,2024-03-04,True,False,phone,trial,low,es,5791.49,,Charlie,,,AniCura,Unknown,prefers morning drop-off
+1102,David  Stone,davidsto731@email.com,+47 99537891,Norway,solna,131 27,,Floor 5,2024-03-05,True,False,,corporate,high,,,0.0,Luna,Labrador,,Evidensia,Up To Date,allergic to peanuts
+1164,Elin Svensson,elinsven320@gmail.com,+34 617948672,China,solna,94683,Parkvägen 32,,2024-03-06,True,False,instagram,unknown,unknown,sv,,3.0,Luna,,,AniCura,,prefers morning drop-off
+1096,Erik Holm,erikholm735@email.com,+46 70 422 61 31,Sweden,,78128,Ringvägen 71,Apt 41,2024-03-09,True,True,partner,,,,,1.0,,Mixed,2021-11-15,,,moved address
+1049,Karin Lund,karinlun841@email.com,+44 7180385942,Spain,stockholm,,,,2024-03-13,False,False,instagram,new,,en,7079.77,,,Labrador,,Evidensia,,
+1163,Emma Johansson,emmajoha463@gmail.com,,Sverige,sundbyberg,,Skogsvägen 67,,2024-03-21,True,,partner,new,medium,sv,9263.33,1.0,Milo,French Bulldog,,Evidensia,Unknown,
+1009,Mikael Åström,mikaelås584@company.se,,Portugal,sundbyberg,171 11,Ringvägen 53,Floor 4,2024-03-23,False,False,email,corporate,low,en,,,Charlie,Mixed,,,Expired,invoice required
+1034,Sara Lind,saralind687@company.se,+46 70 754 50 86,United Kingdom,solna,,Storgatan 87,Apt 31,2024-03-27,True,False,phone,trial,,sv,,3.0,,French Bulldog,,Evidensia,,moved address
+1201,Liam Andersson,liamande101@company.se,+34 617683639,Sweden,täby,48291,,,2024-03-29,True,True,instagram,vip,,,,1.0,Bella,Beagle,,,,moved address
+1032,Oscar Berg,oscarber275@company.se,+46 70 271 65 45,Portugal,huddinge,,Birger Jarlsgatan 14,Floor 6,2024-04-02,True,False,,vip,,en,,2.0,Charlie,Husky,,,,
+1029,Ahmed Ali,ahmedali81@company.se,,Spain,täby,192 95,Birger Jarlsgatan 27,Floor 4,2024-04-08,False,False,email,returning,unknown,sv,,1.0,Rocky,Mixed,2021-03-05,Local Vet,,prefers morning drop-off
+1159,Pedro Silva,pedrosil633@company.se,+44 7876153361,Sweden,huddinge,149 98,Sveavägen 78,Floor 1,2024-04-10,False,False,phone,vip,,sv,8774.26,1.0,Max,Beagle,,Evidensia,,invoice required
+1175,Ana G.,anagarci91@email.com,+46 70 910 97 39,Spain,nacka,,Kungsgatan 61,,2024-04-16,True,False,,,,es,,0.0,Max,Poodle,,,Expired,
+1110,Ella Berg,ellaberg261@gmail.com,+44 7791916428,Spain,nacka,,,Floor 7,2024-04-21,False,True,walk-in,vip,high,en,,1.0,,Mixed,,,,
+1056,Karin Lund,karinlun858@email.com,,Portugal,huddinge,100 83,,,2024-04-27,False,True,website,unknown,unknown,en,,2.0,Milo,,,Local Vet,,moved address
+1025,Fatima Khan,fatimakh971@email.com,+34 630324759,Portugal,huddinge,107 27,Skogsvägen 68,,2024-04-28,True,,phone,vip,high,sv,,2.0,Milo,Poodle,,Local Vet,,prefers morning drop-off
+1197,Olivia Lind,oliviali224@outlook.com,,Norway,solna,26153,,Floor 8,2024-04-29,False,True,email,returning,,en,,3.0,Milo,Dachshund,,,,invoice required
+1122,Olivia  Lind,oliviali438@outlook.com,+44 7442862704,Norway,täby,,Skogsvägen 71,,2024-05-05,,,partner,corporate,low,,,1.0,Charlie,Mixed,,,Unknown,moved address
+1063,Liam Andersson,liamande114@email.com,+46 70 168 15 26,United Kingdom,huddinge,,,Apt 10,2024-05-06,False,False,walk-in,vip,low,sv,,,Bella,Chihuahua,,,Up To Date,allergic to peanuts
+1054,Nora Hansen,norahans647@email.com,+47 91614990,Sverige,sundbyberg,,,,2024-05-07,True,False,walk-in,vip,unknown,en,,1.0,Luna,Chihuahua,,Evidensia,Unknown,invoice required
+1172,Sofia Andersson,sofiaand369@gmail.com,,Norway,nacka,39751,Kungsgatan 108,,2024-05-09,False,False,email,corporate,,,,,,French Bulldog,,,Expired,allergic to peanuts
+1112,Ella Berg,ellaberg952@outlook.com,+46 70 884 45 38,Portugal,huddinge,162 21,,,2024-05-09,False,True,website,new,high,es,832.96,,Charlie,Mixed,,AniCura,Expired,allergic to peanuts
+1062,Ana G.,anagarci16@gmail.com,,Sverige,sundbyberg,198 21,Ringvägen 80,,2024-05-11,True,True,email,vip,low,,,1.0,Rocky,Mixed,,Evidensia,Expired,allergic to peanuts
+1101,Ana García,anagarci697@company.se,,Spain,stockholm,,,,2024-05-13,False,False,walk-in,corporate,low,,,1.0,,Husky,,,,
+1208,Frida  Karlsson,fridakar136@outlook.com,,Portugal,stockholm,110 87,Birger Jarlsgatan 15,,2024-05-13,False,False,instagram,trial,high,sv,,3.0,Max,,,Evidensia,,prefers morning drop-off
+1215,Olivia Lind,oliviali965@email.com,+44 7293767948,Norway,stockholm,120 17,,,2024-05-13,False,True,website,,unknown,,,,Max,French Bulldog,2022-02-01,Evidensia,Up To Date,
+1121,Nora Hansen,norahans10@email.com,,Norway,solna,,Sveavägen 81,Floor 2,2024-05-15,True,,walk-in,vip,,sv,,1.0,,,,AniCura,Unknown,
+1082,Elin  Svensson,elinsven491@email.com,+34 613328008,Sweden,täby,,Kungsgatan 101,,2024-05-16,False,False,partner,returning,,sv,3018.7,2.0,,French Bulldog,,Local Vet,Expired,
+1212,Sofia Andersson,sofiaand747@gmail.com,+44 7355710363,United Kingdom,sundbyberg,119 99,Parkvägen 5,,2024-05-17,False,False,partner,unknown,unknown,sv,4975.35,,Luna,Mixed,,,,moved address
+1176,Karin Lund,karinlun175@email.com,+44 7597812327,China,nacka,28275,Ringvägen 20,,2024-05-19,True,False,website,returning,medium,es,,1.0,Milo,Beagle,,Local Vet,Up To Date,invoice required
+1169,Maria  Lopez,maríalóp700@gmail.com,+47 93604706,Sweden,huddinge,170 18,Sveavägen 19,,2024-05-20,True,True,instagram,,unknown,en,,1.0,,Mixed,,Local Vet,,moved address
+1048,Oscar  Berg,oscarber524@email.com,+47 98663014,Sverige,stockholm,98705,Birger Jarlsgatan 95,Floor 3,2024-05-25,True,True,phone,corporate,unknown,sv,2548.94,,Rocky,,,,Unknown,
+1152,David Stone,davidsto391@company.se,+46 70 531 32 30,Portugal,,,Ringvägen 65,,2024-05-26,True,,instagram,vip,,,2457.17,,,German Shepherd,,,Unknown,moved address
+1109,Mikael Astrom,mikaelås460@gmail.com,+34 658262270,United Kingdom,huddinge,155 29,,Floor 3,2024-05-29,True,True,phone,corporate,high,,,1.0,,Golden Retriever,,AniCura,,moved address
+1075,Mariam  Ali,mariamal172@company.se,+44 7833913230,China,,68827,Sveavägen 68,,2024-05-30,False,True,email,vip,,sv,2537.33,,,Husky,,AniCura,,allergic to peanuts
+1218,Liam Andersson,liamande67@outlook.com,,Sverige,,159 65,,Apt 16,2024-06-02,True,False,email,trial,medium,sv,,,Max,Husky,,AniCura,,allergic to peanuts
+1181,Ahmed Ali,ahmedali294@outlook.com,+47 93749697,Portugal,sundbyberg,86049,Sveavägen 60,,2024-06-10,False,False,instagram,trial,high,,,,,Husky,,Evidensia,,allergic to peanuts
+1085,Maria Lopez,maríalóp527@gmail.com,+34 672532267,United Kingdom,huddinge,53006,,Apt 40,2024-06-10,True,True,instagram,vip,,en,1793.46,,Rocky,French Bulldog,,AniCura,Up To Date,
+1139,María López,maríalóp491@outlook.com,+47 94536127,Spain,huddinge,156 93,Parkvägen 35,,2024-06-10,False,True,walk-in,vip,unknown,sv,3647.39,3.0,,Labrador,,Local Vet,,invoice required
+1065,Jonas Nilsson,jonasnil345@email.com,+44 7191352864,Sverige,solna,35966,,Apt 79,2024-06-13,False,True,walk-in,vip,,es,3072.41,,,Dachshund,,AniCura,Expired,
+1037,Ahmed Ali,ahmedali255@outlook.com,,Spain,huddinge,74865,Storgatan 31,,2024-06-17,False,True,website,,unknown,en,,,,Labrador,,,Expired,invoice required
+1057,Lin Chen,linchen450@email.com,,Portugal,stockholm,146 40,Skogsvägen 52,Floor 7,2024-06-18,False,True,partner,unknown,low,en,,,Rocky,Beagle,,,Up To Date,
+1045,Nora Hansen,norahans586@gmail.com,+44 7799636574,China,huddinge,,Parkvägen 29,,2024-06-19,True,,instagram,vip,high,,,2.0,,Chihuahua,,,,invoice required
+1210,Mikael Åstrom,mikaelås734@outlook.com,,Spain,sundbyberg,,Birger Jarlsgatan 104,Apt 46,2024-06-19,True,False,,corporate,,es,,1.0,,Mixed,,,,
+1142,Sofia Andersson,sofiaand729@company.se,+34 613212026,Spain,solna,151 99,,Floor 2,2024-06-20,True,False,walk-in,corporate,,,,,,Mixed,,Evidensia,Up To Date,allergic to peanuts
+1198,Noah  Eriksson,noaherik581@email.com,+44 7296438104,Sweden,sundbyberg,82597,Sveavägen 1,,2024-06-27,True,False,phone,trial,,sv,,,,Chihuahua,,Evidensia,,
+1132,Erik  Holm,erikholm52@gmail.com,,United Kingdom,huddinge,61368,Ringvägen 35,Apt 27,2024-06-29,False,True,email,unknown,unknown,,2735.8,1.0,,Mixed,,Local Vet,Unknown,
+1216,Jonas Nilsson,jonasnil950@outlook.com,,Spain,stockholm,173 63,Kungsgatan 88,Apt 78,2024-07-01,True,False,walk-in,unknown,medium,sv,,,,Dachshund,,,,
+1108,Mariam Ali,mariamal341@gmail.com,+46 70 804 50 95,Portugal,huddinge,,Storgatan 30,Floor 4,2024-07-08,True,True,website,new,low,,,1.0,,,,,Expired,allergic to peanuts
+1050,Liam Andersson,liamande127@company.se,+46 70 703 74 27,Norway,täby,199 32,,,2024-07-10,True,False,partner,vip,,sv,,,Luna,French Bulldog,,,,invoice required
+1077,Oscar  Berg,oscarber554@outlook.com,+47 96692259,Spain,huddinge,,Kungsgatan 95,,2024-07-11,True,False,instagram,new,medium,sv,,1.0,Bella,Mixed,,AniCura,,
+1072,Emma Johansson,emmajoha882@outlook.com,,Spain,täby,173 26,Ringvägen 14,,2024-07-12,True,True,instagram,trial,,sv,,1.0,,,,,,moved address
+1126,,davidsto487@gmail.com,+46 70 547 55 98,Portugal,täby,,Sveavägen 2,Apt 64,2024-07-14,True,False,phone,unknown,low,sv,,3.0,Max,Labrador,,,Up To Date,
+1031,Jonas Nilsson,jonasnil951@outlook.com,+34 663458386,China,nacka,53480,,,2024-07-15,True,False,website,vip,,en,,0.0,Milo,Mixed,,Evidensia,,allergic to peanuts
+1160,Ana García,anagarci517@outlook.com,+46 70 603 46 83,China,stockholm,168 30,Birger Jarlsgatan 79,,2024-07-16,False,True,email,unknown,high,,,,,Labrador,,Local Vet,Unknown,invoice required
+1106,Oscar Berg,oscarber281@gmail.com,+47 95141290,United Kingdom,stockholm,,Ringvägen 39,,2024-07-18,False,False,,unknown,,,,1.0,Max,,,,,
+1150,Nora Hansen,norahans358@company.se,,Norway,sundbyberg,182 97,,Floor 2,2024-07-18,False,False,phone,corporate,high,sv,298.76,,Luna,Husky,,,,moved address
+1087,David Stone,davidsto885@company.se,+44 7439854673,Sweden,nacka,112 98,Sveavägen 64,,2024-07-19,True,True,website,unknown,,es,,2.0,Bella,Mixed,2024-06-07,,Expired,allergic to peanuts
+1170,Erik  Holm,erikholm220@email.com,+34 619792992,Norway,solna,188 24,Skogsvägen 23,,2024-07-19,True,False,website,trial,medium,es,,,Milo,Poodle,2021-01-21,Local Vet,Up To Date,
+1177,Karin Lund,karinlun968@outlook.com,+47 95706534,Sverige,sundbyberg,,,,2024-07-22,True,True,walk-in,vip,medium,sv,5924.27,3.0,,Chihuahua,,Evidensia,Expired,
+1178,Liam Andersson,liamande455@outlook.com,,Sweden,stockholm,82427,,Floor 7,2024-07-27,False,True,instagram,vip,unknown,sv,7942.7,2.0,Rocky,Chihuahua,,AniCura,,
+1041,Olivia Lind,oliviali817@company.se,+47 96335227,Spain,täby,172 28,Skogsvägen 23,Apt 5,2024-07-29,False,True,partner,new,unknown,sv,,1.0,Luna,Beagle,,Evidensia,,moved address
+1161,Elin Svensson,elinsven889@gmail.com,,Sverige,täby,,Skogsvägen 78,,2024-07-29,False,True,walk-in,,,en,2425.2,0.0,Bella,Dachshund,2022-09-17,Local Vet,Up To Date,invoice required
+1187,Frida Karlsson,fridakar22@company.se,+46 70 497 66 87,Norway,solna,56303,Sveavägen 32,Apt 49,2024-08-03,False,True,website,corporate,,en,,3.0,Bella,Husky,,Local Vet,Up To Date,allergic to peanuts
+1179,Pedro Silva,pedrosil686@company.se,,Sweden,täby,31519,,,2024-08-06,True,True,phone,,medium,sv,,1.0,Rocky,Mixed,,,,allergic to peanuts
+1078,Ella Berg,ellaberg709@gmail.com,+34 670454232,Portugal,nacka,,Sveavägen 54,Floor 2,2024-08-08,False,True,partner,vip,unknown,,,,Charlie,Mixed,,Evidensia,,
+1155,Mariam  Ali,mariamal635@email.com,,Spain,stockholm,95736,Parkvägen 59,,2024-08-16,False,False,phone,vip,low,sv,,3.0,,,,,,moved address
+1119,Elin Svensson,elinsven604@outlook.com,+34 661546232,Portugal,solna,124 67,Sveavägen 39,Apt 69,2024-08-18,True,True,website,trial,high,sv,,3.0,Max,Dachshund,,,Expired,allergic to peanuts
+1120,Mariam Ali,mariamal895@email.com,+47 91023487,Portugal,täby,,Parkvägen 2,Apt 29,2024-08-19,True,True,walk-in,unknown,unknown,sv,,2.0,Charlie,Husky,,,Up To Date,
+1211,Oskar Berg,oskarber957@company.se,+34 657381532,Portugal,täby,,Skogsvägen 22,Apt 11,2024-08-20,True,True,,returning,,,,1.0,,Mixed,,,Up To Date,invoice required
+1123,Karin Lund,karinlun422@outlook.com,+46 70 760 98 11,Sverige,täby,61955,,,2024-08-24,False,,instagram,,low,,,1.0,,Chihuahua,,,Unknown,
+1195,Liam Andersson,liamande378@gmail.com,+47 96962982,China,stockholm,140 69,,,2024-08-28,False,True,partner,unknown,high,sv,1137.65,2.0,,Mixed,2024-01-09,Evidensia,,
+1008,David Stone,davidsto285@company.se,+34 682399599,Portugal,stockholm,,Storgatan 80,Floor 2,2024-08-28,False,False,instagram,vip,,,1594.0,2.0,Max,Chihuahua,,Evidensia,Up To Date,prefers morning drop-off
+1174,Karin Lund,karinlun374@outlook.com,+46 70 386 76 13,Spain,nacka,15302,,,2024-08-28,True,False,,,high,en,,3.0,Bella,,2021-01-12,Local Vet,,
+1026,Oscar Berg,oskarber667@gmail.com,+46 70 394 51 46,Portugal,stockholm,122 63,,Apt 38,2024-08-29,,False,partner,new,high,es,,,,,,Evidensia,,prefers morning drop-off
+1192,Liam Andersson,liamande403@outlook.com,+47 99537520,,sundbyberg,185 51,Birger Jarlsgatan 20,Floor 1,2024-08-30,False,False,website,corporate,medium,,1418.6,,Rocky,Mixed,,,,allergic to peanuts
+2121,María López,maríalóp21@company.se,,Sverige,huddinge,32795,,,2024-08-30,False,False,email,,low,en,,0.0,,Mixed,2019-12-25,,Unknown,prefers morning drop-off
 1046,Karin Lund,karinlun898@gmail.com,+47 94071377,,huddinge,53426,Sveavägen 75,,2024-08-31,False,True,partner,new,,,8449.55,,Milo,Dachshund,,,,
-1105,Oscar Berg,oscarber321@gmail.com,+46 70 814 63 36,sverige,,,Parkvägen 54,,2024-09-04,False,False,,,low,,,1 ,,,16 Apr 2020,AniCura,expired,allergic to peanuts
-1020,Sofia Andersson,sofiaand383@gmail.com,+47 96346644,spain,nacka,,Parkvägen 3,Floor 3,2024-09-11,,,,new,high,sv,2257.58,,,,16/02/2023,,,
-1209,David Stone,davidsto777@company.se,,españa,solna,,,,2024-09-13,False,True,website,,medium,en,8170.96,,Bella,Dachshund,01/24/2024,Local Vet,expired,allergic to peanuts
-1013, maría lopez ,maríalóp333@email.com,,sweden,täby,148 89,Birger Jarlsgatan 117,,2024-09-14,True,False,email,vip,,en,,3,Rocky,Chihuahua,10 May 2021,,unknown,
-1137,Oscar Berg,oscarber830@gmail.com,,es,täby,56151,,Floor 2,2024-09-14,False,True,website,vip,low,sv,,1 ,Rocky,Labrador,06-07-2020,Local Vet,up_to_date,
-1074,ella berg,ellaberg146@outlook.com,,españa,täby,71455,Ringvägen 43,,2024-09-15,True,True,walk-in,unknown,high,sv,,,,Chihuahua,2019-11-24,,up_to_date,
-1079,Elin Svensson,elinsven140@company.se,+46 70 747 55 44,,nacka,32439,Kungsgatan 114,,2024-09-19,True,,,corporate,unknown,sv,,3,,,01 Mar 2018,,,moved address
-1131,MIKAEL ÅSTROM,mikaelås792@company.se,+34 657380159,norway,stockholm,127 11,Skogsvägen 25,,2024-09-20,,,partner,vip,high,sv,,3,Luna,German Shepherd,03/09/2019,,,
-1080,Mariam  Ali,mariamal643@email.com,+47 95975954,sweden,täby,,Parkvägen 15,Floor 8,2024-09-22,True,False,phone,returning,unknown,es,,2,Charlie,German Shepherd,,Evidensia,expired,prefers morning drop-off
-1167,Luis Pérez,luispere582@gmail.com,+47 97494523,spain,nacka,,,Floor 9,2024-09-26,True,False,walk-in,unknown,,en,5085.92,1,Rocky,mix,2024/03/19,,unknown,moved address
-2966, ELIN SVENSSON ,elinsven653@email.com,+47 91279750,spain,,,Birger Jarlsgatan 54,Apt 25,2024-09-28,True,False,walk-in,corporate,low,en,,1 ,,French Bulldog,,,,
-1023,LIN CHEN,linchen129@outlook.com,,united kingdom,stockholm,,Parkvägen 74,,2024-10-03,True,True,phone,corporate,medium,,,3,Max,mix,09/03/2018,Local Vet,,allergic to peanuts
-1055,ERIK HOLM,erikholm288@gmail.com,+47 94864570,norway,nacka,,,Apt 74,2024-10-03,True,,walk-in,,low,,,3,Bella,mix,07/03/2021,Evidensia,unknown,moved address
-1111, noah eriksson ,noaherik618@outlook.com,+47 96646375,pt,nacka,17502,Parkvägen 1,Apt 52,2024-10-03,False,False,walk-in,vip,medium,en,,3,Charlie,Labrador,2021-08-12,,,moved address
-1052,karin lund,karinlun658@gmail.com,,uk,sundbyberg,68400,Ringvägen 25,Apt 66,2024-10-05,True,False,,,,,,3,Max,Poodle,12 Jan 2024,,,
-1118,María  López,maríalóp353@email.com,+46 70 342 16 96,norway,stockholm,,,,2024-10-05,False,True,email,returning,,sv,6711.38,two,,,08/18/2024,Local Vet,,
-1153,Nora Hansen,norahans841@company.se,,pt,huddinge,138 64,Skogsvägen 11,Floor 4,2024-10-06,True,True,phone,trial,unknown,sv,,,Bella,Beagle,2024.06.06,Evidensia,expired,
-1158,SARA LIND,saralind641@company.se,+44 7647122926,cn,nacka,22395,Sveavägen 82,Apt 25,2024-10-06,False,,phone,vip,high,es,,two,Milo,Chihuahua,05/11/2020,Evidensia,,
-1200,Sofia Andersson,sofiaand221@company.se,+34 652376590,spain,,198 78,Storgatan 102,Apt 30,2024-10-10,True,False,instagram,unknown,,es,,1 ,Luna,German Shepherd,08/07/2020,,,
-1202,liam  andersson,liamande822@email.com,,,sundbyberg,81758,Birger Jarlsgatan 113,Floor 4,2024-10-13,False,True,instagram,,medium,,,3,Milo,mix,01-12-2019,,,
-1125,FATIMA KHAN,fatimakh322@outlook.com,+46 70 523 74 67,uk,stockholm,48097,Kungsgatan 73,Floor 8,2024-10-14,False,False,phone,corporate,unknown,en,,0,,mix,20 Mar 2019,AniCura,,
-1154,Karin Lund,karinlun413@email.com,+34 675302094,cn,sundbyberg,157 96,,,2024-10-17,True,True,phone,unknown,,,,1,,Chihuahua,21/05/2019,,UPTODATE,moved address
-1214,SARA LIND,saralind414@email.com,+47 98789014,spain,nacka,,Storgatan 42,,2024-10-17,True,False,,corporate,low,,,3,Max,,04/05/2023,Evidensia,,
-1156,,oscarber146@gmail.com,+44 7592033623,,sundbyberg,53340,Sveavägen 73,Floor 3,2024-10-20,True,False,walk-in,vip,unknown,,,two,Luna,Chihuahua,2021.06.02,Evidensia,UPTODATE,allergic to peanuts
-1017,Elin  Svensson,elinsven84@outlook.com,+34 669330166,sweden,sundbyberg,87743,,Apt 8,2024-10-21,True,True,website,vip,high,sv,2749.75,3,,French Bulldog,14 Jun 2019,Local Vet,up_to_date,
-1018,emma  johansson,emmajoha203@gmail.com,,united kingdom,huddinge,,,,2024-10-24,False,True,walk-in,trial,low,,,0,Rocky,Mixed,,,,
-1084,SARA LIND,saralind135@email.com,,spain,stockholm,195 25,Kungsgatan 89,,2024-10-25,True,True,email,,low,,,1,Max,Labrador,2023-10-05,,,
-1162,Mariam Ali,mariamal803@email.com,+44 7679256785,se,sundbyberg,128 21,,Floor 3,2024-10-25,True,,phone,corporate,high,sv,,two,Max,Husky,,Evidensia,,moved address
-1011,Fatima Khan,fatimakh27@email.com,+46 70 790 83 85,pt,nacka,86720,Skogsvägen 45,Floor 6,2024-10-25,False,True,website,corporate,,sv,,0,,Golden Retriever,12-07-2021,,unknown,moved address
-1024,ANA GARCÍA,anagarci482@outlook.com,+47 95437118,no,stockholm,35513,Skogsvägen 65,Floor 5,2024-10-26,False,True,,new,,sv,,2,Luna,Poodle,03 Oct 2024,Local Vet,unknown,moved address
-2651,ana garcia,anagarci248@company.se,,se,sundbyberg,,Skogsvägen 23,,2024-10-27,True,True,instagram,returning,high,sv,,two,Charlie,,2022-12-03,,expired,prefers morning drop-off
-1128,oscar berg,oscarber650@outlook.com,+44 7363339926,spain,stockholm,,Storgatan 15,,2024-10-29,,False,website,new,,en,,,,MIXED,31 Mar 2018,,,invoice required
-1051,ella berg,ellaberg464@email.com,,se,nacka,99803,,Apt 80,2024-11-05,False,True,partner,,unknown,en,,3,Luna,,11/02/2018,AniCura,unknown,allergic to peanuts
-1141, Karin Lund ,karinlun953@gmail.com,,no,täby,29670,,Floor 9,2024-11-05,True,False,partner,vip,unknown,en,,1 ,,Beagle,,Evidensia,,
-2811, Luis Perez ,luispere308@outlook.com,,sweden,sundbyberg,72797,,,2024-11-08,False,False,instagram,vip,unknown,,,,Bella,Poodle,,Local Vet,up_to_date,
-1129,EMMA JOHANSSON,emmajoha970@company.se,,,huddinge,68478,Sveavägen 105,,2024-11-10,False,False,partner,vip,low,sv,4269.33,2,,Mixed,Oct 09 2024,,UPTODATE,moved address
-1124,David Stone,davidsto100@outlook.com,,china,stockholm,,,Floor 4,2024-11-11,True,False,,trial,,es,,,Luna,Beagle,Apr 06 2021,,UPTODATE,invoice required
-1014,JONAS NILSSON,jonasnil806@outlook.com,,sweden,solna,,Birger Jarlsgatan 109,,2024-11-15,True,True,walk-in,vip,high,en,,two,Charlie,Husky,Apr 13 2018,,,
-1135,Ana G.,anagarci140@gmail.com,+46 70 755 29 48,es,stockholm,,Storgatan 67,Apt 14,2024-11-16,True,True,instagram,new,low,,,,Charlie,German Shepherd,2020.12.02,AniCura,UPTODATE,prefers morning drop-off
-1040,Elin Svensson,elinsven661@email.com,+44 7793623149,china,sundbyberg,115 15,,Apt 51,2024-11-18,True,False,email,returning,high,en,,2,,French Bulldog,2018/05/22,,up_to_date,allergic to peanuts
-1042,Fatima  Khan,fatimakh509@gmail.com,+46 70 179 40 54,spain,solna,18885,Sveavägen 101,Floor 8,2024-11-24,True,True,website,corporate,,sv,,,,MIXED,2024/06/25,AniCura,expired,
-1088,ERIK  HOLM,erikholm155@outlook.com,+47 94415137,spain,huddinge,176 40,Storgatan 20,,2024-11-25,True,False,instagram,unknown,low,en,,0,,MIXED,02/11/2021,AniCura,up_to_date,prefers morning drop-off
-1028,Maria Lopez,maríalóp229@email.com,+44 7671159367,españa,solna,135 34,Birger Jarlsgatan 79,Floor 2,2024-11-25,True,False,instagram,unknown,low,,2324.97,3,Charlie,German Shepherd,2020-06-08,,expired,invoice required
-1097,SARA LIND,saralind733@gmail.com,+34 654002874,sverige,huddinge,154 62,Storgatan 55,,2024-11-25,True,False,instagram,trial,unknown,,,3,,Husky,29 Jun 2023,,,moved address
-1117,Mikael ÅSTROM,mikaelås495@outlook.com,,united kingdom,,,Birger Jarlsgatan 43,,2024-11-26,True,False,instagram,new,low,sv,,1 ,Luna,Dachshund,05/32/2024,Local Vet,expired,
-1068,erik holm,erikholm793@outlook.com,+44 7252728624,uk,stockholm,123 84,Birger Jarlsgatan 53,,2024-11-28,False,True,instagram,vip,,sv,,two,,,2019.04.13,,,
-1092, Mikael Astrom ,mikaelås698@email.com,+44 7187040987,spain,täby,184 10,Birger Jarlsgatan 42,Floor 1,2024-11-29,True,True,phone,,low,en,,3,Milo,French Bulldog,,,expired,
-1007,Sara Lind,saralind737@company.se,+34 673709724,uk,nacka,45992,Skogsvägen 31,Floor 6,2024-12-04,False,True,website,returning,,,,3,,Beagle,2024.02.01,,,
-1059,Oscar Berg,oscarber569@company.se,+44 7289630619,china,huddinge,,Sveavägen 33,Floor 2,2024-12-06,True,False,walk-in,vip,high,es,4527.12,two,Rocky,,Jan 18 2022,,up_to_date,invoice required
-1073,David Stone,davidsto966@company.se,+34 611089747,uk,stockholm,100 81,Parkvägen 31,Floor 7,2024-12-10,False,True,email,corporate,,sv,,1,,French Bulldog,10 Feb 2020,Local Vet,,
-1173,Olivia Lind,oliviali782@email.com,+47 91145436,españa,solna,37919,,,2024-12-10,,True,phone,new,unknown,sv,,3,Max,,08/06/2022,Evidensia,,prefers morning drop-off
-1036,Lin  Chen,linchen873@company.se,,se,nacka,,,Apt 47,2024-12-13,False,False,email,new,,,,,,mix,2019-01-25,Evidensia,,invoice required
-1081,MARIAM ALI,mariamal136@company.se,+46 70 554 92 12,uk,huddinge,85851,,,2024-12-20,False,True,website,returning,high,,,,Bella,French Bulldog,17-12-2021,,expired,allergic to peanuts
-1016,MARIAM ALI,mariamal848@company.se,+47 96243275,norway,stockholm,22219,Storgatan 96,,,True,False,partner,unknown,,,,0,Milo,Chihuahua,Jul 03 2021,,UPTODATE,
-1019,Emma Johansson,emmajoha610@email.com,+44 7200344359,sverige,solna,143 72,Kungsgatan 20,Floor 9,,True,False,walk-in,vip,unknown,es,,1,,mix,2019.11.10,,expired,prefers morning drop-off
-1053,Sara  Lind,saralind694@outlook.com,+46 70 111 80 81,sweden,sundbyberg,37752,,Apt 33,,True,False,email,vip,low,,,1 ,Max,Mixed,03-10-2018,Local Vet,UPTODATE,
-1058,ella  berg,ellaberg691@outlook.com,+47 94666931,es,solna,194 40,Parkvägen 80,Apt 20,,False,True,email,trial,low,es,7260.32,2,Rocky,Husky,11-06-2024,Evidensia,,invoice required
-1066,PEDRO  SILVA,pedrosil201@outlook.com,+47 95551832,es,nacka,51347,Parkvägen 65,Apt 72,,False,True,partner,vip,,en,,2,Rocky,Beagle,2021/05/23,,unknown,
-1165,ahmed  ali,ahmedali789@outlook.com,+44 7453078170,,stockholm,,,Floor 2,,False,True,partner,vip,unknown,,,1 ,,Chihuahua,08/02/2019,,unknown,
-1193,Nora Hansen,,+44 7212310447,españa,huddinge,,,,,True,False,instagram,trial,high,sv,,2,Rocky,Labrador,27/07/2022,,UPTODATE,
-1199,Ana Garcia,anagarci713@email.com,,spain,stockholm,55738,Birger Jarlsgatan 72,,,True,True,website,vip,medium,,2225.09,1,Charlie,,03/20/2020,,UPTODATE,
-1217,Luis P.,luispere132@email.com,+44 7874784405,portugal,huddinge,,Ringvägen 75,Apt 3,,False,,walk-in,vip,medium,sv,,2,Rocky,Dachshund,06/11/2021,Evidensia,,moved address
-1220,Karin Lund,karinlun255@gmail.com,,,täby,,Sveavägen 22,Apt 28,,True,False,instagram,vip,medium,es,,,Luna,,23-04-2018,Local Vet,,
+1105,Oscar Berg,oscarber321@gmail.com,+46 70 814 63 36,Sverige,,,Parkvägen 54,,2024-09-04,False,False,,,low,,,1.0,,,2020-04-16,AniCura,Expired,allergic to peanuts
+1020,Sofia Andersson,sofiaand383@gmail.com,+47 96346644,Spain,nacka,,Parkvägen 3,Floor 3,2024-09-11,,,,new,high,sv,2257.58,,,,,,,
+1209,David Stone,davidsto777@company.se,,Spain,solna,,,,2024-09-13,False,True,website,,medium,en,8170.96,,Bella,Dachshund,,Local Vet,Expired,allergic to peanuts
+1013,María Lopez,maríalóp333@email.com,,Sweden,täby,148 89,Birger Jarlsgatan 117,,2024-09-14,True,False,email,vip,,en,,3.0,Rocky,Chihuahua,2021-05-10,,Unknown,
+1137,Oscar Berg,oscarber830@gmail.com,,Spain,täby,56151,,Floor 2,2024-09-14,False,True,website,vip,low,sv,,1.0,Rocky,Labrador,,Local Vet,Up To Date,
+1074,Ella Berg,ellaberg146@outlook.com,,Spain,täby,71455,Ringvägen 43,,2024-09-15,True,True,walk-in,unknown,high,sv,,,,Chihuahua,,,Up To Date,
+1079,Elin Svensson,elinsven140@company.se,+46 70 747 55 44,,nacka,32439,Kungsgatan 114,,2024-09-19,True,,,corporate,unknown,sv,,3.0,,,2018-03-01,,,moved address
+1131,Mikael Åstrom,mikaelås792@company.se,+34 657380159,Norway,stockholm,127 11,Skogsvägen 25,,2024-09-20,,,partner,vip,high,sv,,3.0,Luna,German Shepherd,,,,
+1080,Mariam  Ali,mariamal643@email.com,+47 95975954,Sweden,täby,,Parkvägen 15,Floor 8,2024-09-22,True,False,phone,returning,unknown,es,,2.0,Charlie,German Shepherd,,Evidensia,Expired,prefers morning drop-off
+1167,Luis Pérez,luispere582@gmail.com,+47 97494523,Spain,nacka,,,Floor 9,2024-09-26,True,False,walk-in,unknown,,en,5085.92,1.0,Rocky,Mixed,,,Unknown,moved address
+2966,Elin Svensson,elinsven653@email.com,+47 91279750,Spain,,,Birger Jarlsgatan 54,Apt 25,2024-09-28,True,False,walk-in,corporate,low,en,,1.0,,French Bulldog,,,,
+1023,Lin Chen,linchen129@outlook.com,,United Kingdom,stockholm,,Parkvägen 74,,2024-10-03,True,True,phone,corporate,medium,,,3.0,Max,Mixed,,Local Vet,,allergic to peanuts
+1055,Erik Holm,erikholm288@gmail.com,+47 94864570,Norway,nacka,,,Apt 74,2024-10-03,True,,walk-in,,low,,,3.0,Bella,Mixed,,Evidensia,Unknown,moved address
+1111,Noah Eriksson,noaherik618@outlook.com,+47 96646375,Portugal,nacka,17502,Parkvägen 1,Apt 52,2024-10-03,False,False,walk-in,vip,medium,en,,3.0,Charlie,Labrador,,,,moved address
+1052,Karin Lund,karinlun658@gmail.com,,United Kingdom,sundbyberg,68400,Ringvägen 25,Apt 66,2024-10-05,True,False,,,,,,3.0,Max,Poodle,2024-01-12,,,
+1118,María  López,maríalóp353@email.com,+46 70 342 16 96,Norway,stockholm,,,,2024-10-05,False,True,email,returning,,sv,6711.38,,,,,Local Vet,,
+1153,Nora Hansen,norahans841@company.se,,Portugal,huddinge,138 64,Skogsvägen 11,Floor 4,2024-10-06,True,True,phone,trial,unknown,sv,,,Bella,Beagle,,Evidensia,Expired,
+1158,Sara Lind,saralind641@company.se,+44 7647122926,China,nacka,22395,Sveavägen 82,Apt 25,2024-10-06,False,,phone,vip,high,es,,,Milo,Chihuahua,,Evidensia,,
+1200,Sofia Andersson,sofiaand221@company.se,+34 652376590,Spain,,198 78,Storgatan 102,Apt 30,2024-10-10,True,False,instagram,unknown,,es,,1.0,Luna,German Shepherd,,,,
+1202,Liam  Andersson,liamande822@email.com,,,sundbyberg,81758,Birger Jarlsgatan 113,Floor 4,2024-10-13,False,True,instagram,,medium,,,3.0,Milo,Mixed,,,,
+1125,Fatima Khan,fatimakh322@outlook.com,+46 70 523 74 67,United Kingdom,stockholm,48097,Kungsgatan 73,Floor 8,2024-10-14,False,False,phone,corporate,unknown,en,,0.0,,Mixed,2019-03-20,AniCura,,
+1154,Karin Lund,karinlun413@email.com,+34 675302094,China,sundbyberg,157 96,,,2024-10-17,True,True,phone,unknown,,,,1.0,,Chihuahua,,,Up To Date,moved address
+1214,Sara Lind,saralind414@email.com,+47 98789014,Spain,nacka,,Storgatan 42,,2024-10-17,True,False,,corporate,low,,,3.0,Max,,,Evidensia,,
+1156,,oscarber146@gmail.com,+44 7592033623,,sundbyberg,53340,Sveavägen 73,Floor 3,2024-10-20,True,False,walk-in,vip,unknown,,,,Luna,Chihuahua,,Evidensia,Up To Date,allergic to peanuts
+1017,Elin  Svensson,elinsven84@outlook.com,+34 669330166,Sweden,sundbyberg,87743,,Apt 8,2024-10-21,True,True,website,vip,high,sv,2749.75,3.0,,French Bulldog,2019-06-14,Local Vet,Up To Date,
+1018,Emma  Johansson,emmajoha203@gmail.com,,United Kingdom,huddinge,,,,2024-10-24,False,True,walk-in,trial,low,,,0.0,Rocky,Mixed,,,,
+1084,Sara Lind,saralind135@email.com,,Spain,stockholm,195 25,Kungsgatan 89,,2024-10-25,True,True,email,,low,,,1.0,Max,Labrador,,,,
+1162,Mariam Ali,mariamal803@email.com,+44 7679256785,Sweden,sundbyberg,128 21,,Floor 3,2024-10-25,True,,phone,corporate,high,sv,,,Max,Husky,,Evidensia,,moved address
+1011,Fatima Khan,fatimakh27@email.com,+46 70 790 83 85,Portugal,nacka,86720,Skogsvägen 45,Floor 6,2024-10-25,False,True,website,corporate,,sv,,0.0,,Golden Retriever,,,Unknown,moved address
+1024,Ana García,anagarci482@outlook.com,+47 95437118,Norway,stockholm,35513,Skogsvägen 65,Floor 5,2024-10-26,False,True,,new,,sv,,2.0,Luna,Poodle,2024-10-03,Local Vet,Unknown,moved address
+2651,Ana Garcia,anagarci248@company.se,,Sweden,sundbyberg,,Skogsvägen 23,,2024-10-27,True,True,instagram,returning,high,sv,,,Charlie,,,,Expired,prefers morning drop-off
+1128,Oscar Berg,oscarber650@outlook.com,+44 7363339926,Spain,stockholm,,Storgatan 15,,2024-10-29,,False,website,new,,en,,,,Mixed,2018-03-31,,,invoice required
+1051,Ella Berg,ellaberg464@email.com,,Sweden,nacka,99803,,Apt 80,2024-11-05,False,True,partner,,unknown,en,,3.0,Luna,,,AniCura,Unknown,allergic to peanuts
+1141,Karin Lund,karinlun953@gmail.com,,Norway,täby,29670,,Floor 9,2024-11-05,True,False,partner,vip,unknown,en,,1.0,,Beagle,,Evidensia,,
+2811,Luis Perez,luispere308@outlook.com,,Sweden,sundbyberg,72797,,,2024-11-08,False,False,instagram,vip,unknown,,,,Bella,Poodle,,Local Vet,Up To Date,
+1129,Emma Johansson,emmajoha970@company.se,,,huddinge,68478,Sveavägen 105,,2024-11-10,False,False,partner,vip,low,sv,4269.33,2.0,,Mixed,,,Up To Date,moved address
+1124,David Stone,davidsto100@outlook.com,,China,stockholm,,,Floor 4,2024-11-11,True,False,,trial,,es,,,Luna,Beagle,,,Up To Date,invoice required
+1014,Jonas Nilsson,jonasnil806@outlook.com,,Sweden,solna,,Birger Jarlsgatan 109,,2024-11-15,True,True,walk-in,vip,high,en,,,Charlie,Husky,,,,
+1135,Ana G.,anagarci140@gmail.com,+46 70 755 29 48,Spain,stockholm,,Storgatan 67,Apt 14,2024-11-16,True,True,instagram,new,low,,,,Charlie,German Shepherd,,AniCura,Up To Date,prefers morning drop-off
+1040,Elin Svensson,elinsven661@email.com,+44 7793623149,China,sundbyberg,115 15,,Apt 51,2024-11-18,True,False,email,returning,high,en,,2.0,,French Bulldog,,,Up To Date,allergic to peanuts
+1042,Fatima  Khan,fatimakh509@gmail.com,+46 70 179 40 54,Spain,solna,18885,Sveavägen 101,Floor 8,2024-11-24,True,True,website,corporate,,sv,,,,Mixed,,AniCura,Expired,
+1088,Erik  Holm,erikholm155@outlook.com,+47 94415137,Spain,huddinge,176 40,Storgatan 20,,2024-11-25,True,False,instagram,unknown,low,en,,0.0,,Mixed,,AniCura,Up To Date,prefers morning drop-off
+1028,Maria Lopez,maríalóp229@email.com,+44 7671159367,Spain,solna,135 34,Birger Jarlsgatan 79,Floor 2,2024-11-25,True,False,instagram,unknown,low,,2324.97,3.0,Charlie,German Shepherd,,,Expired,invoice required
+1097,Sara Lind,saralind733@gmail.com,+34 654002874,Sverige,huddinge,154 62,Storgatan 55,,2024-11-25,True,False,instagram,trial,unknown,,,3.0,,Husky,2023-06-29,,,moved address
+1117,Mikael Åstrom,mikaelås495@outlook.com,,United Kingdom,,,Birger Jarlsgatan 43,,2024-11-26,True,False,instagram,new,low,sv,,1.0,Luna,Dachshund,,Local Vet,Expired,
+1068,Erik Holm,erikholm793@outlook.com,+44 7252728624,United Kingdom,stockholm,123 84,Birger Jarlsgatan 53,,2024-11-28,False,True,instagram,vip,,sv,,,,,,,,
+1092,Mikael Astrom,mikaelås698@email.com,+44 7187040987,Spain,täby,184 10,Birger Jarlsgatan 42,Floor 1,2024-11-29,True,True,phone,,low,en,,3.0,Milo,French Bulldog,,,Expired,
+1007,Sara Lind,saralind737@company.se,+34 673709724,United Kingdom,nacka,45992,Skogsvägen 31,Floor 6,2024-12-04,False,True,website,returning,,,,3.0,,Beagle,,,,
+1059,Oscar Berg,oscarber569@company.se,+44 7289630619,China,huddinge,,Sveavägen 33,Floor 2,2024-12-06,True,False,walk-in,vip,high,es,4527.12,,Rocky,,,,Up To Date,invoice required
+1073,David Stone,davidsto966@company.se,+34 611089747,United Kingdom,stockholm,100 81,Parkvägen 31,Floor 7,2024-12-10,False,True,email,corporate,,sv,,1.0,,French Bulldog,2020-02-10,Local Vet,,
+1173,Olivia Lind,oliviali782@email.com,+47 91145436,Spain,solna,37919,,,2024-12-10,,True,phone,new,unknown,sv,,3.0,Max,,,Evidensia,,prefers morning drop-off
+1036,Lin  Chen,linchen873@company.se,,Sweden,nacka,,,Apt 47,2024-12-13,False,False,email,new,,,,,,Mixed,,Evidensia,,invoice required
+1081,Mariam Ali,mariamal136@company.se,+46 70 554 92 12,United Kingdom,huddinge,85851,,,2024-12-20,False,True,website,returning,high,,,,Bella,French Bulldog,,,Expired,allergic to peanuts
+1016,Mariam Ali,mariamal848@company.se,+47 96243275,Norway,stockholm,22219,Storgatan 96,,,True,False,partner,unknown,,,,0.0,Milo,Chihuahua,,,Up To Date,
+1019,Emma Johansson,emmajoha610@email.com,+44 7200344359,Sverige,solna,143 72,Kungsgatan 20,Floor 9,,True,False,walk-in,vip,unknown,es,,1.0,,Mixed,,,Expired,prefers morning drop-off
+1053,Sara  Lind,saralind694@outlook.com,+46 70 111 80 81,Sweden,sundbyberg,37752,,Apt 33,,True,False,email,vip,low,,,1.0,Max,Mixed,,Local Vet,Up To Date,
+1058,Ella  Berg,ellaberg691@outlook.com,+47 94666931,Spain,solna,194 40,Parkvägen 80,Apt 20,,False,True,email,trial,low,es,7260.32,2.0,Rocky,Husky,,Evidensia,,invoice required
+1066,Pedro  Silva,pedrosil201@outlook.com,+47 95551832,Spain,nacka,51347,Parkvägen 65,Apt 72,,False,True,partner,vip,,en,,2.0,Rocky,Beagle,,,Unknown,
+1165,Ahmed  Ali,ahmedali789@outlook.com,+44 7453078170,,stockholm,,,Floor 2,,False,True,partner,vip,unknown,,,1.0,,Chihuahua,,,Unknown,
+1193,Nora Hansen,,+44 7212310447,Spain,huddinge,,,,,True,False,instagram,trial,high,sv,,2.0,Rocky,Labrador,,,Up To Date,
+1199,Ana Garcia,anagarci713@email.com,,Spain,stockholm,55738,Birger Jarlsgatan 72,,,True,True,website,vip,medium,,2225.09,1.0,Charlie,,,,Up To Date,
+1217,Luis P.,luispere132@email.com,+44 7874784405,Portugal,huddinge,,Ringvägen 75,Apt 3,,False,,walk-in,vip,medium,sv,,2.0,Rocky,Dachshund,,Evidensia,,moved address
+1220,Karin Lund,karinlun255@gmail.com,,,täby,,Sveavägen 22,Apt 28,,True,False,instagram,vip,medium,es,,,Luna,,,Local Vet,,
